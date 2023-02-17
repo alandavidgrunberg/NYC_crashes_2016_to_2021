@@ -1,4 +1,4 @@
-<b>Tableau Dashboard analysis of 2016 - 2021 NYC car crash data</b><br>
+<b>Analysis & visualization of 2016 - 2021 NYC car crash data</b><br>
 <br>
 Interactive Tableau Dashboard: <br>
 https://alandavidgrunberg.github.io/NYC_crashes_2016_to_2021/ <br>
